@@ -8,20 +8,26 @@
         <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
       </p>
       <h3>intalar</h3>
+      <img src="https://picsum.photos/200/300/?blur=2">
+      <img src="https://picsum.photos/id/200/300?grayscale">
       <ul>
         <li><a href="https://www.google.com/?hl=es" target="_blank" rel="noopener">babel</a></li>
         <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-router" target="_blank" rel="noopener">router</a></li>
         <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-vuex" target="_blank" rel="noopener">vuex</a></li>
       </ul>
       <h3>que pensar de todo esto</h3>
+      <img src="https://picsum.photos/300/300?grayscale">
       <ul>
         <li><a href="https://www.google.com/?hl=es" target="_blank" rel="noopener">google</a></li>
         <li><a href="https://www.google.com/?hl=es" target="_blank" rel="noopener">vospensabas que solo podia porner a google mira esto</a></li>
         <li><a href="https://chat.vuejs.org" target="_blank" rel="noopener">Community Chat</a></li>
         <li><a href="https://twitter.com/vuejs" target="_blank" rel="noopener">Twitter</a></li>
         <li><a href="https://news.vuejs.org" target="_blank" rel="noopener">News</a></li>
+        <img src="https://picsum.photos/200/300?grayscale">
       </ul>
       <h3>megustan laschicas me gustan la jodas me gustan</h3>
+      <img src="https://picsum.photos/id/300/300?grayscale">
+      <img src="https://picsum.photos/200/300/?blur=2?">
       <ul>
         <li><a href="https://www.google.com/?hl=es" target="_blank" rel="noopener">y esto..</a></li>
         <li><a href="https://vuex.vuejs.org" target="_blank" rel="noopener">vuex</a></li>
@@ -47,10 +53,11 @@
     margin: 40px 0 0;
   }
   ul {
-    list-style-type: none;
+    list-style-type: kannada;
     padding: 0;
   }
   li {
+    list-style-type: kannada;
     display: inline-block;
     margin: 0 10px;
   }
