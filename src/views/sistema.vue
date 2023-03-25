@@ -8,15 +8,14 @@
         <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
       </p>
       <h3>intalar</h3>
-      <img src="https://picsum.photos/200/300/?blur=2">
-      <img src="https://picsum.photos/id/200/300?grayscale">
+      <div class="foto"> <div class="1"><img src="https://picsum.photos/300/300?grayscale"></div><div class="texto"><h1>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero repudiandae, natus, omnis quidem nisi amet pariatur deserunt, nesciunt dolore provident corrupti consectetur ex distinctio eius at. Ducimus iusto soluta numquam?</h1> </div> </div>      
       <ul>
         <li><a href="https://www.google.com/?hl=es" target="_blank" rel="noopener">babel</a></li>
         <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-router" target="_blank" rel="noopener">router</a></li>
         <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-vuex" target="_blank" rel="noopener">vuex</a></li>
       </ul>
       <h3>que pensar de todo esto</h3>
-      <img src="https://picsum.photos/300/300?grayscale">
+      <div class="hola"> <div class="foto2"><img src="https://picsum.photos/300/300?grayscale"></div><div class="texto2"><h1>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero repudiandae, natus, omnis quidem nisi amet pariatur deserunt, nesciunt dolore provident corrupti consectetur ex distinctio eius at. Ducimus iusto soluta numquam?</h1> </div> </div>
       <ul>
         <li><a href="https://www.google.com/?hl=es" target="_blank" rel="noopener">google</a></li>
         <li><a href="https://www.google.com/?hl=es" target="_blank" rel="noopener">vospensabas que solo podia porner a google mira esto</a></li>
@@ -64,5 +63,6 @@
   a {
     color: #582036;
   }
-  </style>
+ 
+</style>
   
