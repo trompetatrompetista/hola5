@@ -63,6 +63,10 @@
   a {
     color: #582036;
   }
- 
+  img.texto {
+    vertical-align: text-top;
+  }
+   
+
 </style>
   
