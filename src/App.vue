@@ -9,19 +9,22 @@
 
 <style lang="scss">
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-family: 'Times New Roman', Times, serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
+  opacity:0.9;
   color: #2c3e50;
 }
 
 nav {
+  background-color: aqua;
+  opacity:0.6;
   padding: 30px;
 
   a {
     font-weight: bold;
-    color: #2c3e50;
+    color: #04101d;
 
     &.router-link-exact-active {
       color: #42b983;
