@@ -19,6 +19,7 @@
 
 nav {
   background-color: aqua;
+  background-image:url(https://i.blogs.es/e1feab/google-fotos/1024_2000.webp) ;
   opacity:0.6;
   padding: 30px;
 
