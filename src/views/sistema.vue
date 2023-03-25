@@ -1,4 +1,6 @@
 <template>
+
+<img alt="Vue logo" src="https://img.freepik.com/vector-gratis/panda-lindo-trabajando-ilustracion-icono-vector-dibujos-animados-portatil-concepto-icono-tecnologia-animal-aislado-vector-premium-estilo-dibujos-animados-plana_138676-3487.jpg?w=360&t=st=1679750829~exp=1679751429~hmac=592fc4482507a38d4ce3626e6e306ad7038889d8e031f64347e89e76333e4b40">
     <div class="hello">
       <h1>{{ msg }}</h1>
       <p>
@@ -11,7 +13,7 @@
         <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-router" target="_blank" rel="noopener">router</a></li>
         <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-vuex" target="_blank" rel="noopener">vuex</a></li>
       </ul>
-      <h3>Essential Links</h3>
+      <h3>que pensar de todo esto</h3>
       <ul>
         <li><a href="https://www.google.com/?hl=es" target="_blank" rel="noopener">google</a></li>
         <li><a href="https://www.google.com/?hl=es" target="_blank" rel="noopener">vospensabas que solo podia porner a google mira esto</a></li>
@@ -19,7 +21,7 @@
         <li><a href="https://twitter.com/vuejs" target="_blank" rel="noopener">Twitter</a></li>
         <li><a href="https://news.vuejs.org" target="_blank" rel="noopener">News</a></li>
       </ul>
-      <h3>hola</h3>
+      <h3>megustan laschicas me gustan la jodas me gustan</h3>
       <ul>
         <li><a href="https://www.google.com/?hl=es" target="_blank" rel="noopener">y esto..</a></li>
         <li><a href="https://vuex.vuejs.org" target="_blank" rel="noopener">vuex</a></li>
