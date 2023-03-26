@@ -8,7 +8,7 @@
         <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
       </p>
       <h3>intalar</h3>
-      <div class="foto"> <div class="1"><img src="https://picsum.photos/300/300?grayscale"></div><div class="texto"><h1>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero repudiandae, natus, omnis quidem nisi amet pariatur deserunt, nesciunt dolore provident corrupti consectetur ex distinctio eius at. Ducimus iusto soluta numquam?</h1> </div> </div>      
+     <img class="hola1" src="https://picsum.photos/300/300?grayscale">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero repudiandae, natus, omnis quidem nisi amet pariatur deserunt, nesciunt dolore provident corrupti consectetur ex distinctio eius at. Ducimus iusto soluta numquam?       
       <ul>
         <li><a href="https://www.google.com/?hl=es" target="_blank" rel="noopener">babel</a></li>
         <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-router" target="_blank" rel="noopener">router</a></li>
@@ -63,9 +63,12 @@
   a {
     color: #582036;
   }
-  img.texto {
-    vertical-align: text-top;
-  }
+ img.hola1{ 
+  vertical-align: text-top;  
+}
+
+
+
    
 
 </style>
