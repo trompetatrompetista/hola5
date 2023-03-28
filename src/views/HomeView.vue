@@ -3,62 +3,29 @@
     <img alt="Vue logo" src="../assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
-  <div class="fila">
-        <div class="columna">
-            <img src="https://picsum.photos/800/600">
-        </div>
-        <div class="columna">
-            <img src="https://picsum.photos/800/600">
-        </div>
-        <div class="columna">
-            <img src="https://picsum.photos/800/600">
-        </div>
-    </div>
-    <div class="fila">
-        <div class="texto">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus fugit voluptatibus culpa. Dolor, eaque. In dolore nulla placeat. Ipsam deleniti ipsum iusto voluptatem expedita facilis illum quas consequatur saepe modi?
-        </div>
-        <div class="texto">
-          
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum assumenda dolorum excepturi! Dolorum nesciunt veniam officiis architecto et, quos explicabo quod, iure nobis rem ducimus rerum? Debitis ut cumque nam!
-        </div>
-        <div class="texto">
+  <div class="parte1"> <div class="b"><img src="https://picsum.photos/id/300/300?grayscale"> <h1> Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus magni qui id, quaerat vel quis aliquam, laudantium sequi accusamus, earum quia ut quod est culpa aliquid. Voluptatum id dignissimos commodi.</h1></div><div class="c"><img src="https://picsum.photos/id/300/300?grayscale"><h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime dolorum corporis ratione enim labore sint quos, magnam minima molestias. Magnam ex accusamus nam odit ad, est minima debitis recusandae ducimus?</h1></div><div class="d"><img src="https://picsum.photos/id/300/300?grayscale"><h1>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quidem error nobis iste iusto nulla eaque voluptate, magnam recusandae. Et quisquam nemo omnis pariatur assumenda eveniet odio quos ratione impedit odit.</h1></div></div>
  
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, quod asperiores consequatur voluptatibus suscipit temporibus ex illum dolore, at ut reprehenderit eius sint aspernatur placeat deserunt veritatis earum ducimus quibusdam!
-        </div>
-    </div>
+    
 
 </template>
 
 <style>
-        * {
-            box-sizing: border-box;
-        }
-
-        .columna {
-            float: left;
-            width: 33%;
-            padding-right: 5px;
-        }
-        .texto {
-            float: left;
-            width: 33%;
-            padding-right: 5px;
-            text-align: center;
-            
-        }
-
-        .fila::after {
-            content: "";
-            clear: both;
-            display: table;
-        }
+        
+        
 
         img {
             /* Para que sea responsiva */
             width: 100%;
         }
-    </style>
+        .parte1{
+         display:flex; 
+          justify-content: space-between;
+        }
+   h1{
+    text-align: justify;
+   }
+</style>
+
 <script>
 // @ is an alias to /src
 import HelloWorld from '@/components/HelloWorld.vue'
